@@ -6,17 +6,15 @@
 
 ### **Topik: PHP & MySQL (CRUD Data Barang)**
 
-**Nama**: Muhammad Aziz Tri Ramadhan
+**Nama**: LENI
 
-**NIM**: 312410380
+**NIM**: 312410442
 
-**Kelas**: TI.24.A3
+**Kelas**: TI.24.A5
 
 **Program Studi**: Teknik Informatika
 
 **Mata Kuliah**: Pemrograman Web 
-
-**Dosen Pengampu**: Tuliskan Nama Dosen
 
 ---
 

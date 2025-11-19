@@ -1,4 +1,4 @@
-# **README.md – Praktikum 8 PHP & MySQL (CRUD Data Barang)**
+# **Praktikum 8 PHP & MySQL (CRUD Data Barang)**
 
 # **UNIVERSITAS PELITA BANGSA**
 
